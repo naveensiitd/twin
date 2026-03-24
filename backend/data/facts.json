@@ -1,0 +1,21 @@
+{
+    "full_name": "Naveen Shrivastava",
+    "name": "Naveen",
+    "current_role": "GenAI Architect",
+    "location": "Hyderabad, India",
+    "email": "naveens.iitd@gmail.com",
+    "linkedin": "linkedin.com/in/naveensrtv/",
+    "specialties": [
+      "Generative AI 1",
+      "AI/ML 2",
+      "Data Science 3"
+    ],
+    "years_experience": 10,
+    "education": [
+      {
+        "degree": "Master of Technology",
+        "institution": "Indian Institute of Technology, Delhi",
+        "year": "2007"
+      }
+    ]
+  }
